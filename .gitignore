@@ -2,3 +2,7 @@ custOut
 
 testOnnx.onnx
 
+node_modules
+
+.firebase
+
